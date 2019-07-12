@@ -28,3 +28,4 @@ return array(
 	 See details of your web browser for how to enable JavaScript.",
 	 "verifyGetFor" => array()
 );
+
